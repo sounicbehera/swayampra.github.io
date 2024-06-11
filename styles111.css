@@ -64,6 +64,7 @@ h2{
 
     .gff{
         transform: translateY(-60%);
+         display: block;
     }
     .content{
         transform: translateY(20%);
